@@ -44,8 +44,8 @@ Each node is an **ESP32 (ESP-WROOM-32)** paired with an **nRF24L01** radio modul
 | GPIO4 | CE |
 | GPIO5 | CSN |
 | GPIO18 | SCK |
-| GPIO19 | MISO |
-| GPIO23 | MOSI |
+| GPIO23 | MISO |
+| GPIO19 | MOSI |
 | 3V3 | VCC |
 | GND | GND |
 
